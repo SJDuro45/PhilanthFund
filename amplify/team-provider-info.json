@@ -1,0 +1,19 @@
+{
+    "fund": {
+        "awscloudformation": {
+            "AuthRoleName": "fundraiser-20190309230508-authRole",
+            "UnauthRoleArn": "arn:aws:iam::616117754130:role/fundraiser-20190309230508-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::616117754130:role/fundraiser-20190309230508-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "fundraiser-20190309230508-deployment",
+            "UnauthRoleName": "fundraiser-20190309230508-unauthRole",
+            "StackName": "fundraiser-20190309230508",
+            "StackId": "arn:aws:cloudformation:us-east-1:616117754130:stack/fundraiser-20190309230508/b1436cf0-42e9-11e9-a314-12a3b4ca1ea2"
+        },
+        "categories": {
+            "auth": {
+                "cognito4a713003": {}
+            }
+        }
+    }
+}
